@@ -2,6 +2,10 @@
 
 This is Labayar example integration, if you only want to try [labayar](https://github.com/masraga/labayar) library without manually setup. This starter kit is using laravel 10.
 
+### Screenshot
+
+![labayar](https://raw.githubusercontent.com/masraga/labayar-starter-kit/refs/heads/master/screenshot/labayar.png)
+
 ### Ensure file below is exists
 
 -   config/tripay.php
