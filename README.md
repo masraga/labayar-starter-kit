@@ -59,3 +59,5 @@ php artisan db:seed --class=LabayarSeeder
 ```sh
 php artisan serve
 ```
+
+8. Open your browser and go to http://localhost:8000
